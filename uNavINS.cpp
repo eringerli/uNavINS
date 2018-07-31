@@ -109,7 +109,7 @@ void uNavINS::update(unsigned long TOW,double vn,double ve,double vd,double lat,
     initialized = true;
   } else {
     // get the change in time
-    _dt = (float)_t;
+    _dt = (float)_t/1000.0;
     _t = 0;
     lla_ins(0,0) = lat_ins;
     lla_ins(1,0) = lon_ins;

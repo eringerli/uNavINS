@@ -1,7 +1,7 @@
 # uNavINS
 uNav Inertial Navigation System 15 State EKF Arduino Library.
 
-***Developing with the [Teensy 3.2](https://www.pjrc.com/store/teensy32.html) or [LC](https://www.pjrc.com/store/teensylc.html)? Consider buying our [Teensy Motion Backpack](http://bolderflight.com/products/teensy/motion/), which integrates an MPU-9250 and BME-280 into a stackable add-on module, along with our Teensy GNSS Backpack, which integrates the uBlox SAM-M8Q GNSS module and provides UART, I2C, and PPS interfaces. All of our Backpacks are thoughtfully designed to integrate perfectly with the Teensy. Check out all of our wonderfully small and powerful [Teensy Backpacks](http://bolderflight.com/products/teensy/)***
+***Developing with the [Teensy 3.2](https://www.pjrc.com/store/teensy32.html) or [LC](https://www.pjrc.com/store/teensylc.html)? Consider buying our [Teensy Motion Backpack](http://bolderflight.com/products/teensy/motion/), which integrates an MPU-9250 and BME-280 into a stackable add-on module, along with our [Teensy GNSS Backpack](http://bolderflight.com/products/teensy/gnss/), which integrates the uBlox SAM-M8Q GNSS module and provides UART, I2C, and PPS interfaces. All of our Backpacks are thoughtfully designed to integrate perfectly with the Teensy. Check out all of our wonderfully small and powerful [Teensy Backpacks](http://bolderflight.com/products/teensy/)***
 
 # Description
 The uNav Inertial Navigation System (INS) is a 15 state Extended Kalman Filter (EKF) to estimate the following from IMU and GPS data:
